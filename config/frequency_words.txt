@@ -4,10 +4,12 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+glm
+kimi
+qwen
+
+昇腾
+通信
 
 比亚迪
 王传福
@@ -29,8 +31,6 @@ DJI
 影之刃零
 梁其伟
 
-哪吒
-饺子
 杨宇
 !车
 !餐
@@ -40,7 +40,8 @@ DJI
 刘慈欣
 郭帆
 
-申奥
+euv
+asml
 
 京东
 刘强东
@@ -73,13 +74,15 @@ sora
 claude
 Anthropic
 
+cursor
+
 iphone
 ipad
 mac
 ios
 
 ai
-!gai
+agi
 人工智能
 
 自动驾驶
@@ -95,6 +98,7 @@ ai
 
 芯片
 光刻机
+gpu
 
 科技
 
